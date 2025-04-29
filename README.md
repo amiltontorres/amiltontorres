@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amilton Torres</h1>
+<h1 align="center">Hi, I'm Amilton Torres</h1>
 <h3 align="center">Turning data into decisions | Junior Data Analyst</h3>
 
 - 🌱 I’m currently learning **Python (Pandas, NumPy), SQL, Power BI/Tableau.**
